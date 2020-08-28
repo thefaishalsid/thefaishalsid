@@ -5,9 +5,9 @@
 -->
 
 
--👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte] and [tailwind][tailwind]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+👨🏼‍💻 building [murphee][murphee]  
+🧠 learning [Python] and [Web Development]  
+💜 loving 
 
 
 
