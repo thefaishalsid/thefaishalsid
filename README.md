@@ -5,9 +5,9 @@
 -->
 
 
-👨🏼‍💻 Student [class 11]
-🧠 learning [Python] and [Web Development]  
-💜 loving 
+👨🏼‍💻 Student [class 11] **|** 
+🧠 learning [Python] and [Web Development]  **|** 
+💜 loving Coding
 
 
 
