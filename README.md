@@ -5,7 +5,7 @@
 -->
 
 
-👨🏼‍💻 Student 
+👨🏼‍💻 Student [class 11]
 🧠 learning [Python] and [Web Development]  
 💜 loving 
 
@@ -20,6 +20,9 @@
 [Python]: https://www.python.org/
 [website]: thefaishalsiddiqui.github.io
 [twitter]: https://twitter.com/thefaishalsid
+[Web Development]: https://www.freecodecamp.org/learn
+[class 11]: https://cbse.nic.in/
+
 
 
 
