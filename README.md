@@ -5,7 +5,7 @@
 -->
 
 
-👨🏼‍💻 building [murphee][murphee]  
+👨🏼‍💻 Student 
 🧠 learning [Python] and [Web Development]  
 💜 loving 
 
@@ -17,7 +17,7 @@
 
 
 
-
+[Python]: https://www.python.org/
 [website]: thefaishalsiddiqui.github.io
 [twitter]: https://twitter.com/thefaishalsid
 
