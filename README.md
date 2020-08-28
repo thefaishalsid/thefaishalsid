@@ -5,12 +5,12 @@
 -->
 Here are some ideas to get you started:
 
-🔭 I’m currently working on 
-🌱 I’m currently learning python, Web Development
-👯 I’m looking to collaborate on python
-🤔 I’m looking for help with python
-😄 Pronouns: he/him...
-⚡ Fun fact:----> ...
+-🔭 I’m currently working on 
+-🌱 I’m currently learning python, Web Development
+-👯 I’m looking to collaborate on python
+-🤔 I’m looking for help with python
+-😄 Pronouns: he/him...
+-⚡ Fun fact:----> ...
 
 
 
