@@ -1,4 +1,5 @@
-### Hi, I'm Faishal Siddiqui 👋
+## Hi, I'm Faishal Siddiqui 👋
+#### I am a student currently learning python and web devlopment
 
 <!--
 **thefaishalsiddiqui/thefaishalsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
