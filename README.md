@@ -19,7 +19,7 @@
 
 
 [Python]: https://www.python.org/
-[website]: https://thefaishalsiddiqui.github.io
+[website]: https://thefaishalsid.github.io
 [twitter]: https://twitter.com/thefaishalsid
 [Web Development]: https://www.freecodecamp.org/learn
 [class 11]: https://cbse.nic.in/
